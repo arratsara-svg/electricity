@@ -26,14 +26,15 @@
 ## 🛠 أدوات التطوير
 - **Visual Studio Code**  
 - **XAMPP** (Apache – PHP – MySQL)
-3. تشغيل Apache وMySQL  
-4. استيراد قاعدة البيانات  
-5. الدخول إلى:
-
-## 👩‍💻 المطوّر
-**سارة عرّاط**  
-GitHub: https://github.com/arratsara-svg
+  
 
 ## ▶️ طريقة التشغيل
 1. تثبيت XAMPP  
 2. وضع المشروع داخل:
+3.  تشغيل Apache وMySQL  
+4. استيراد قاعدة البيانات  
+5. الدخول إلى:
+   
+## 👩‍💻 المطوّر
+**سارة عرّاط**  
+GitHub: https://github.com/arratsara-svg
